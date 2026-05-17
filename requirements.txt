@@ -1,0 +1,12 @@
+# Data Processing & Evaluation
+pandas
+scikit-learn
+
+# Utilities
+tqdm
+requests
+jupyter
+
+# Multi-Agent Framework
+pyautogen
+openai
