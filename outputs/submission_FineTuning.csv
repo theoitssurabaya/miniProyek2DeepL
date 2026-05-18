@@ -1,5 +1,5 @@
 Epoch 1/1
-Step, Training Loss
-10, 2.495200
-20, 2.690800
+Step,Training Loss
+10,2.495200
+20,2.690800
 TrainOutput(global_step=20, training_loss=2.5929823875427247, metrics={'train_runtime': 4.1547, 'train_samples_per_second': 4.814, 'train_steps_per_second': 4.814, 'total_flos': 15907411722240.0, 'train_loss': 2.5929823875427247, 'epoch': 1.0})
